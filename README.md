@@ -3,7 +3,7 @@ Agent explores 5x5 grid, learning best moves (Q-learning) to reach goal. Remembe
 
 Imports:
 
-torch: This library is used for deep learning tasks. In this case, it's likely not directly used for the Q-learning algorithm but might be used for a neural network implementation (not included here).
+torch: This library is used for deep learning tasks.
 
 pygame: This library is used for creating a graphical user interface (GUI) to visualize the agent's movement on a grid.
 
